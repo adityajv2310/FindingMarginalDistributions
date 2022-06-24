@@ -1,4 +1,7 @@
-# Marginal distributions and correation coefficient  
+### EXP NO: 03
+### DATE:
+
+# <p align = "center"> Marginal distributions and correation coefficient  
 
 # Aim : 
 
@@ -26,10 +29,12 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 
 
 # Program :
-```python
-# Developed by Aditya JV
-# Register Number: 212220230002
+```
+Developd By : Aditya JV
+Reg.No:212220230002
 
+```
+```python
 import math
 import numpy as np
 pdf=[[0,0.01,0.03,0.05,0.07,0.09],[0.01,0.02,0.04,0.05,0.06,0.08],[0.01,0.03,0.05,0.05,0.05,0.06],[0.01,0.02,0.04,0.06,0.06,0.05]]
@@ -72,7 +77,8 @@ print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 
 
 # Output : 
-![PQM Exp3](https://user-images.githubusercontent.com/75235386/168963209-da6253a6-bfae-4001-8d4d-0edaf503c646.png)
+![Screenshot 2022-05-18 162141](https://user-images.githubusercontent.com/102652887/168963323-2baee8c3-be7f-4481-8308-937386314b38.png)
 
 # Result :
-Thus a program has been implemented to find marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables.
+marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables is found using python program.
+
